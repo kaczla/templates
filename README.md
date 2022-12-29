@@ -1,2 +1,3 @@
 # templates
-Simple code templates
+
+Simple code templates and tips.
